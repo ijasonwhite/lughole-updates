@@ -4,5 +4,15 @@
     <title>Lughole</title>
     <language>en</language>
     <!-- ITEMS -->
+    <item>
+      <title>Lughole 0.1.0</title>
+      <pubDate>Fri, 25 Sep 2026 11:49:06 +0100</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>
+- First release: a native audio editor for macOS. Open almost any audio (and the sound from video), fix voices with one click, edit channels, generate tones, and save to WAV, AIFF, CAF, FLAC, AAC, Apple Lossless, MP3, Opus or Ogg.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/lughole-updates/releases/download/v0.1.0/Lughole-0.1.0.zip" sparkle:edSignature="EFSmGQbAzsi/bQXlvj8l3Cp/1DKuCHrcX+m7XfanL6iW5JYSMFOZhIGIbNzS3Y1cdJ7ebu2hTxjXt3SdFFPiBg==" length="3594777" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
