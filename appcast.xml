@@ -5,6 +5,18 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Lughole 0.6.2</title>
+      <pubDate>Sat, 26 Sep 2026 20:05:37 +0100</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.6.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>
+- **Chord charts.** File > Import Chord Chart (or Chords… in the Riff Pad) opens a window where you type, paste or open a chord chart and hear it played. It reads charts the way musicians write them (bars between | lines, sections like [Verse], repeats, chords from C to F#m7b5 or C/E), lyric sheets copied from chord websites (section names, chords on their own lines, the words skipped), and ChordPro files with [chords] inside the words. It shows what it understood as you type, with any mistakes on their line. Send the chords to the Riff Pad, or add them to your song with an optional bass line and drum beat, as channels at the cursor, with a marker at each section.
+- **Example chord charts.** The Examples menu in the Chord Chart window inserts a sample of each kind of chart, or saves them all as files with a README, so you can see exactly what Lughole expects.
+- **Shift-click adds a channel to the selection.** Shift-click (or ⌘-click) a channel's header to add it to the selection or take it out, instead of replacing the selection.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/lughole-updates/releases/download/v0.6.2/Lughole-0.6.2.zip" sparkle:edSignature="rowyeM6unZfXDp5MXWGk/JIvwjH/de5ykNlAQH0wfeN28Aa120IRepoP3bEZvP9tek3m8klpUfSD3Fzahf/wBw==" length="57517720" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lughole 0.6.1</title>
       <pubDate>Sat, 26 Sep 2026 19:42:56 +0100</pubDate>
       <sparkle:version>8</sparkle:version>
