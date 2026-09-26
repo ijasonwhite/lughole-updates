@@ -5,6 +5,16 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Lughole 0.4.0</title>
+      <pubDate>Sat, 26 Sep 2026 15:48:24 +0100</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>
+- **Change a channel's instrument.** Click the guitar button on any channel. Lughole listens for the notes being played and plays them again on any of 128 built-in instruments (pianos, guitars, strings, brass, synths and more) or your Riff Pad sound. For drums, choose Follow the rhythm and every hit plays a note or chord you pick. Add the result as a new channel or replace the original.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/lughole-updates/releases/download/v0.4.0/Lughole-0.4.0.zip" sparkle:edSignature="YT1dhnsLB0+KTRpMH4PeO0gc98zrlkUAgaxOaGMwyPQwRaGUU7fBpMp54qG9XsTlLfNHJf0rqgjRo2N1SsO8DA==" length="56105669" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lughole 0.3.1</title>
       <pubDate>Sat, 26 Sep 2026 15:23:57 +0100</pubDate>
       <sparkle:version>4</sparkle:version>
