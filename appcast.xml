@@ -5,6 +5,18 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Lughole 0.2.0</title>
+      <pubDate>Sat, 26 Sep 2026 14:44:48 +0100</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>
+- **Separate instruments.** The new Stems tab splits a song into vocals, drums, bass, guitar, piano and everything else, right on your Mac. Open them as channels you can mute, solo and balance, as separate files, or keep only the parts you want (untick Vocals for a karaoke version).
+- **Riff Pad.** A keyboard synth in its own window (⌘K). Play or click in a short riff, then drag it onto a channel to mix it in, or onto the new "+ New channel" row to add it as a channel of its own.
+- Fixed a crash when saving a newly generated document, and one when adding a channel.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/lughole-updates/releases/download/v0.2.0/Lughole-0.2.0.zip" sparkle:edSignature="zUf/IOUuMmu3HqD6y7sEK+t4l10RIJB5TFPnE00DbOcWMQ3Von94IfKiQnUPCtWhLWBtFnWmGHk8yeQ5uaRIDQ==" length="55675540" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lughole 0.1.0</title>
       <pubDate>Fri, 25 Sep 2026 11:49:06 +0100</pubDate>
       <sparkle:version>1</sparkle:version>
