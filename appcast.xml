@@ -5,6 +5,16 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Lughole 0.6.9</title>
+      <pubDate>Sat, 26 Sep 2026 22:30:38 +0100</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>0.6.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>
+- **Files remember how you left them.** Open a file again and its channels come back as they were: names, mute, solo, volume, pan and lock, plus the song's tempo, bars, key and markers. Settings are saved automatically as you work (no need to save the audio) and still find the file if you move or rename it.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/lughole-updates/releases/download/v0.6.9/Lughole-0.6.9.zip" sparkle:edSignature="gfJflp8c0og7BmPbU7S05ThDL5/QeMv+F8IZ7H1tx0DMAa88ARTxDem10ifNSZ+qMddO7+nunqhq+ZFzFx71Cg==" length="57717548" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lughole 0.6.8</title>
       <pubDate>Sat, 26 Sep 2026 22:22:54 +0100</pubDate>
       <sparkle:version>15</sparkle:version>
