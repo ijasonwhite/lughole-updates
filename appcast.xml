@@ -5,6 +5,20 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Lughole 0.6.1</title>
+      <pubDate>Sat, 26 Sep 2026 19:42:56 +0100</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>
+- **Saving and exporting multi-channel audio as M4A, MP3 or Opus works again.** After adding loops, riffs or recordings as channels, those formats now save a stereo mix of what you hear (with each channel's mute, solo, volume and pan). The Save panel has a checkbox to keep every channel separate instead, where the format allows it. If macOS can't write a file, the message now says why.
+- **Lock a channel.** Click the lock on a channel (or right-click it) and nothing in the app can change its audio: edits, effects, drops and deleting all leave it alone, and cutting time moves the other channels around it. Locked channels are tinted and hatched so you can see them at a glance.
+- **Right-click a channel** for Mute, Solo, Solo Only This, Mute All Others, Unmute All, Lock, Duplicate, Move and Delete.
+- **Select channels by clicking their header.** Click to select one, shift-click to select a run of channels, ⌘-click to add or remove one. Riff Pad samples and riffs made from a selection use only the selected channels.
+- **Roll up inspector cards.** Every card on the right has a chevron to fold it away, and stays folded next time.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/lughole-updates/releases/download/v0.6.1/Lughole-0.6.1.zip" sparkle:edSignature="ruyMrobC0Ilot796WX7Yets0CCLplP9pIvAUvpe9cdduFzebDvC04tFUdaiOSXx7CA6WleLvdIvbe6Px0ZawAw==" length="57339744" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lughole 0.6.0</title>
       <pubDate>Sat, 26 Sep 2026 18:27:06 +0100</pubDate>
       <sparkle:version>7</sparkle:version>
