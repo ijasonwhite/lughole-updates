@@ -5,6 +5,16 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Lughole 0.6.3</title>
+      <pubDate>Sat, 26 Sep 2026 20:17:00 +0100</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.6.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>
+- **Switching the Riff Pad between Synth, Instrument and Drums keeps your notes.** Chords and tunes play on whichever synth or instrument you pick. Switching to Drums puts the tune aside (notes mean drums there) and switching back brings it straight back; your drum pattern waits the same way.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/lughole-updates/releases/download/v0.6.3/Lughole-0.6.3.zip" sparkle:edSignature="z0pikZtJiDlx8E8DvlmE/AkSYKD71WVkRJ4fO+1EJEobhD3v3Dq5cY6Zzp/1hllj2PDmdk/WrRF+R/PaD89uAw==" length="57518859" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lughole 0.6.2</title>
       <pubDate>Sat, 26 Sep 2026 20:05:37 +0100</pubDate>
       <sparkle:version>9</sparkle:version>
