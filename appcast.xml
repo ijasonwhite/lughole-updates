@@ -5,6 +5,16 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Lughole 0.6.8</title>
+      <pubDate>Sat, 26 Sep 2026 22:22:54 +0100</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>0.6.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>
+- **Nudging has its own keys.** ⌘← and ⌘→ now nudge the selected audio on a channel (⌘⇧ by a whole beat), and ⇧← and ⇧→ always extend the selection again, as they did before 0.6.7.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/lughole-updates/releases/download/v0.6.8/Lughole-0.6.8.zip" sparkle:edSignature="ERD0CXpybC9UtrB/Xd4UnL3nl4/9tWMRlhxaQFn4Ri7PFYXy8hHoBdy7Ka//RH/fQ6SQw6i6XV/kzXOR7BaPBw==" length="57684863" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lughole 0.6.7</title>
       <pubDate>Sat, 26 Sep 2026 22:20:29 +0100</pubDate>
       <sparkle:version>14</sparkle:version>
