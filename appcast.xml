@@ -5,6 +5,16 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Lughole 0.6.6</title>
+      <pubDate>Sat, 26 Sep 2026 22:10:56 +0100</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>0.6.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>
+- **Select as little as you like.** When a song has a tempo, selection edges now only snap to a beat when you drag close to one, so short selections between beats work. Loops you drop in still land on the beat, and holding ⌘ still turns snapping off completely.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/lughole-updates/releases/download/v0.6.6/Lughole-0.6.6.zip" sparkle:edSignature="ge6MBdDUF3T4jDKvpI0AYsSlTkRMF+YLRgaVAtbPrlnJnLTUL4Q4iPyMOuSWTXw+7Dhs3Gp7X/AWEdIibSe6Cw==" length="57671193" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lughole 0.6.5</title>
       <pubDate>Sat, 26 Sep 2026 21:50:48 +0100</pubDate>
       <sparkle:version>12</sparkle:version>
