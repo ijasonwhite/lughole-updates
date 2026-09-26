@@ -5,6 +5,17 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Lughole 0.6.5</title>
+      <pubDate>Sat, 26 Sep 2026 21:50:48 +0100</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.6.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>
+- **Ear training.** Right-click a channel and choose Make Practice Copy (or Audio > Ear Training). Lughole makes a copy with a secret change: a shift in pitch and key, a change of speed, a brighter or darker tone, or the tune replayed on a different instrument. Listen to the original and the copy, say what changed, then check your answers. A Distance dial goes from close (subtle changes) to far (several big ones, with a room or echo added to throw you off), and a running score shows how you're getting on.
+- **The Riff Pad's keys play straight away.** The BPM box no longer takes the typing when the window opens, and pressing a piano key or space while in it leaves the box and plays.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/lughole-updates/releases/download/v0.6.5/Lughole-0.6.5.zip" sparkle:edSignature="MMdWNISnqlzSQIagJL1mtbvo6MH54PhGAg1c88mv9KW3Yv6+nrKqA4N2KbLSUihACgIYRHJBezIHJblRQ03cBA==" length="57670430" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lughole 0.6.4</title>
       <pubDate>Sat, 26 Sep 2026 21:31:02 +0100</pubDate>
       <sparkle:version>11</sparkle:version>
