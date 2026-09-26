@@ -5,6 +5,23 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Lughole 0.6.0</title>
+      <pubDate>Sat, 26 Sep 2026 18:27:06 +0100</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>
+- **Loop Library.** A new window (⌥⌘L) full of beats, bass lines, chord parts and riffs: rock, pop, funk, hip-hop, trap, house, drum &amp; bass, reggae, bossa nova, waltz and more, played on real drum kits and instruments. Set the tempo, key and chord progression once and every loop follows them, so they all fit together. Click to listen, then drag one onto a channel or onto "+ New channel". Drop a loop inside a selection to repeat it to fill.
+- **Drum machine.** The Riff Pad has a new Drums mode: a step grid with kick, snare, hi-hats, toms, cymbals and percussion, eight drum kits, ghost notes (⌥-click) and swing. It can also play riffs on any of the 128 built-in instruments.
+- **Tempo, bars and key.** Each document can have a tempo, time signature and key (click the metronome in the status bar). The ruler shows bars and beats, and drops and selections snap to the beat (hold ⌘ to place freely). Detect Tempo and Key (⌥⌘T) listens to your recording and sets them for you, so loops match your song.
+- **Turn a selection into a riff.** Select part of a recording and choose Audio > Turn Selection into Riff (⇧⌘K) to get its notes in the Riff Pad, or Turn Selection into Drum Pattern (⌥⇧⌘K) to get its kick, snare and hi-hats on the drum grid, snapped to the song's tempo.
+- **Record along with your song.** The Record sheet adds a metronome click, a one- or two-bar count-in, and plays the song while you record, so you can lay a part over your loops. Takes are lined up automatically.
+- **Undo in the Riff Pad.** ⌘Z and ⇧⌘Z now undo and redo while the Riff Pad is in front.
+- **Clearer Mute and Solo.** Every channel now has big M and S buttons that light up when on, and muted channels are dimmed in the editor so you can see at a glance what you're hearing. ⌥-click S to solo just that channel.
+- Muting, soloing or changing a channel's volume or pan while playing is now heard straight away, instead of on the next play.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/lughole-updates/releases/download/v0.6.0/Lughole-0.6.0.zip" sparkle:edSignature="oJYXzGFR3/KuhiHHolr6Fah/HIbHUpKq1Z9RkNsC/ACyK3jc++dr8ixL45WodkNiU8k5aJ5HgTRdiJ3EtPSSCg==" length="57272944" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lughole 0.5.0</title>
       <pubDate>Sat, 26 Sep 2026 16:51:57 +0100</pubDate>
       <sparkle:version>6</sparkle:version>
