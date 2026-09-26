@@ -5,6 +5,16 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Lughole 0.3.1</title>
+      <pubDate>Sat, 26 Sep 2026 15:23:57 +0100</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>
+- **Add an empty channel.** Click the + New channel row at the bottom of a document, or choose Audio > Channels > Add Empty Channel (⌃⌘N), to add a silent channel alongside the others.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/lughole-updates/releases/download/v0.3.1/Lughole-0.3.1.zip" sparkle:edSignature="ATT3tfOAZVsSQ2fJDWMjuqmIXZqFBNS6xhqDS+mVEU1QxA8nHoX6El98YWn41S0Fk6fGdEcWeAp5NCtI0MywCw==" length="55828228" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lughole 0.3.0</title>
       <pubDate>Sat, 26 Sep 2026 15:04:33 +0100</pubDate>
       <sparkle:version>3</sparkle:version>
