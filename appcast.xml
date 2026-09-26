@@ -5,6 +5,23 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Lughole 0.5.0</title>
+      <pubDate>Sat, 26 Sep 2026 16:51:57 +0100</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>
+- **Record.** Press Record (⌘R) to record from your Mac's microphone or any audio interface, straight into the document at the cursor, onto a new channel, or into a new document. A live level meter shows while you record.
+- **Transcripts.** The new Text tab turns speech into text on your Mac, with a time for every word. Click a word to select it, delete words and the audio goes with them, clear out filler words in one go, and save subtitles as SRT or WebVTT, or the words as plain text.
+- **Batch processing.** File > Batch Process (⇧⌘B) runs the same fixes over a whole folder of files and saves them in the format you choose, leaving the originals untouched.
+- **Loudness.** Measure a file the way Spotify, Apple and broadcasters do (LUFS, true peak and loudness range) in the Info tab, and match it to their targets with Audio > Match Loudness.
+- **Isolate Voice.** Apple's voice isolation as a one-click fix: keeps the voice and removes almost everything else.
+- **Repair.** Remove clicks and pops, rebuild clipped peaks, tame harsh "s" sounds, and shorten long pauses.
+- **Reverb, echo, tempo and pitch** in the new FX tab. Change speed without changing pitch, or pitch without changing speed.
+- **Markers.** Press M to drop a marker, name it, jump between markers, and export the regions between them as separate files.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/lughole-updates/releases/download/v0.5.0/Lughole-0.5.0.zip" sparkle:edSignature="E4/Y1ze+BANJIG28F4FZxo9fnwyzFwOqliWRx8rXv9EiOlImPhPVNCTmkksxaKPKvA/W/18+7myjvXBX/5f8AA==" length="56747683" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lughole 0.4.0</title>
       <pubDate>Sat, 26 Sep 2026 15:48:24 +0100</pubDate>
       <sparkle:version>5</sparkle:version>
