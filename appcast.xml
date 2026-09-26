@@ -5,6 +5,16 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Lughole 0.6.4</title>
+      <pubDate>Sat, 26 Sep 2026 21:31:02 +0100</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.6.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>
+- Fixed a crash when recording with the metronome click or a count-in switched on.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/lughole-updates/releases/download/v0.6.4/Lughole-0.6.4.zip" sparkle:edSignature="mmhtByXJ+p+y/vXEpjt0ovVhiZZKKhVVNHTmf3D3/PhrhqCDWLZDdYs2sJwDOUYQDaLekQn2Y3REu6UQNEzsCg==" length="57518898" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lughole 0.6.3</title>
       <pubDate>Sat, 26 Sep 2026 20:17:00 +0100</pubDate>
       <sparkle:version>10</sparkle:version>
