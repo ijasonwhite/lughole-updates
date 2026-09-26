@@ -5,6 +5,18 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Lughole 0.3.0</title>
+      <pubDate>Sat, 26 Sep 2026 15:04:33 +0100</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>
+- **Channel headers.** Every channel now has a header beside it. Click the name to work on just that channel (⌘-click to pick several), drag it up or down to reorder, and use the icons to mute, duplicate or delete it. A channel's name and settings now stay with it when it moves.
+- **Samples in the Riff Pad.** Select part of any recording and choose Use Selection as Riff Pad Sample (⌥⌘K). It joins the Riff Pad's sound list and plays across the keyboard from its original pitch.
+- The version number is shown in the status bar.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/lughole-updates/releases/download/v0.3.0/Lughole-0.3.0.zip" sparkle:edSignature="VORDQgqUDq3io/5rRbyPvCNYNTVy60orH2pjYkiTod5oi9A+kwAp5U+0y0GGdhNciyJZ6KBfmSwDPGefZJ8dBg==" length="55826800" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lughole 0.2.0</title>
       <pubDate>Sat, 26 Sep 2026 14:44:48 +0100</pubDate>
       <sparkle:version>2</sparkle:version>
