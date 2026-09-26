@@ -5,6 +5,16 @@
     <language>en</language>
     <!-- ITEMS -->
     <item>
+      <title>Lughole 0.6.7</title>
+      <pubDate>Sat, 26 Sep 2026 22:20:29 +0100</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>0.6.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<pre>
+- **Nudge timing on one channel.** Select a channel (click its header), select part of its waveform, then press ⇧← or ⇧→ to move that audio 10 ms earlier or later (⌥⇧ moves a whole beat, or 100 ms without a tempo). Moving it back restores whatever it passed over, and every nudge can be undone. Also in the Audio menu.</pre>]]></description>
+      <enclosure url="https://github.com/ijasonwhite/lughole-updates/releases/download/v0.6.7/Lughole-0.6.7.zip" sparkle:edSignature="uLk0K9CoNbHfLJsOYR8h+SUyIvC/vp+/GV064f1J+2A/izgYw3uNWerSsMtpqHzt0YHSZ6DNKohuKynOjUYAAw==" length="57684481" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Lughole 0.6.6</title>
       <pubDate>Sat, 26 Sep 2026 22:10:56 +0100</pubDate>
       <sparkle:version>13</sparkle:version>
